@@ -1,0 +1,8 @@
+# No external dependencies required for basic tests
+# Python standard library unittest is used
+
+# Recommended: For code coverage analysis
+coverage>=7.0
+
+# Optional: For enhanced testing features
+# pytest>=7.0.0
